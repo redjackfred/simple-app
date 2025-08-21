@@ -1,7 +1,7 @@
 {
 	"name": "simple-app",
 	"private": true,
-	"homepage": "https://redjackfred.github.io/simple-app",
+	"homepage": "https://redjackfred.github.io/simple-app/",
 	"version": "0.0.0",
 	"type": "module",
 	"scripts": {

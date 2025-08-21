@@ -3,6 +3,7 @@ import "./App.css";
 function App() {
 	return (
 		<div className="flex flex-col items-center justify-center h-screen">
+			<h1 className="text-6xl text-center">Hello World!</h1>
 			<label htmlFor="name">Name</label>
 			<input type="text" id="name" name="name" />
 			<label htmlFor="email">Email</label>
